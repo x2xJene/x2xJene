@@ -23,6 +23,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/x2xJene/x2xJene/output/snake.svg" alt="Snake animation" />
+
 
 ###
